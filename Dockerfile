@@ -34,4 +34,6 @@ RUN chmod 755 /lihua.sh
 
 EXPOSE 8900
 
+EXPOSE 6690
+
 CMD  /lihua.sh
